@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🚀 Baala Ganesh R | AI Developer & Competitive Programmer
 
-<!--
-**baalaganeshr/baalaganeshr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 About Me
+- 🔥 36+ day coding streak maintainer
+- 🏆 AI competition participant ($40K challenges)
+- ⚔️ Enterprise AI agent developer
+- 💻 Python & JavaScript specialist
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Languages:** Python, JavaScript, HTML/CSS
+**AI/ML:** HuggingFace, Azure OpenAI, TensorFlow
+**Frameworks:** React, Flask, Node.js
+**Tools:** Git, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=baalaganeshr)
+
+## 🎯 Current Focus
+- Building AI automation solutions
+- Competitive programming mastery
+- Freelance service development
