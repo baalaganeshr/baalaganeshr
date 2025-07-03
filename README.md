@@ -5,12 +5,6 @@
 # 🚀 Baala Ganesh R
 **AI Developer | Competitive Programmer | Full-Stack Engineer**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=baalaganeshr&color=00d4ff&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/baalaganeshr?color=00d4ff&style=flat-square" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Development-00d4ff?style=flat-square" alt="Focus" />
-</p>
-
 ## 🎯 About Me
 
 - 🔥 Passionate AI developer and competitive programmer
@@ -58,12 +52,8 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baalaganeshr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=00d4ff&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baalaganeshr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=00d4ff&text_color=ffffff&hide=stars,prs,issues,contribs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baalaganeshr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baalaganeshr&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak"/>
 </div>
 
 ## 🚀 Featured Projects
@@ -78,7 +68,7 @@
 
 </div>
 
-## 📊 Weekly Development Breakdown
+## 📊 Development Focus
 
 ```text
 AI Development   ████████████░░░░░   75%
